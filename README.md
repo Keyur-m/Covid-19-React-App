@@ -3,7 +3,7 @@ This is a coronavirus application built in ReactJs, styled with TailwindCSS and 
 The application uses the Coronavirus COVID19 API from Postman which is available at [https://documenter.getpostman.com/view/10808728/SzS8rjbc#27454960-ea1c-4b91-a0b6-0468bb4e6712]
 The main link we will use to fetch our JSON data is [https://api.covid19api.com/summary] and we will fetch our data using Axios which is an npm package that you can use in place of the default fetch API in the browser.
 Status
-Live link: https://covid-19-web-app-tsb.netlify.app
+Live link: https://covid-19web-app-k.netlify.app
 
 Requirements
 Install react-icons for our icon library. Run npm install react-icons --save
